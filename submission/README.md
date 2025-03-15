@@ -1,4 +1,4 @@
-# Bike-Sharing System Dashboard
+# Bike-Sharing System Dashboard 🚲
 
 ## Setup Environment - Shell/Terminal
 
